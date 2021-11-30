@@ -1,0 +1,9 @@
+# Python
+__pycache__
+.pyc
+
+
+# Modeling
+_data
+_models
+_logs
